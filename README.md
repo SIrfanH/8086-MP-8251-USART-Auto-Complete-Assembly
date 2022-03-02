@@ -4,7 +4,7 @@ This Circuit and its Assembly program is designed to demonstrate the communicati
 ## Circuit Design
 
 ## Program Flow
-
+At the execution of the program the virual terminal is opened and the user is prompted to enter the number of letters they are going to enter. After entering the number the user should enter the letters. If the user enters a letter which is not in the given array of name then "Error" is shown. If the letter entered is correct then the program auto completes the remaining letters.
 ## Schema
 <p align='center'>
   <img src='https://user-images.githubusercontent.com/49107892/156424067-ea792525-3860-48b7-b815-d490b34923c3.SVG' width='1080'>
