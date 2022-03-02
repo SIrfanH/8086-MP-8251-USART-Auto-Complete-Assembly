@@ -1,4 +1,4 @@
-# 8086-MP-8251-USART-Communication-Demo-Assembly
+# 8086-MP-8251-USART-Auto-Complete-Assembly
 This Circuit and its Assembly program is designed to demonstrate the communication flow between 8086 microprocessor and 8251 Universal Synchronous Asynchronous Reciever Transmitter(USART) IC. Proteus virtual terminal is used as user interface for getting input and displaying output.<br/>
 
 ## Circuit Design
